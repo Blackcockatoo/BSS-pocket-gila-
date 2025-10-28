@@ -1,0 +1,36 @@
+B$S BRANDING ETHOS • DNA (v1)
+
+CORE
+- Raw elegance: minimal geometry, exact placement, generous breathing space.
+- Monochrome first (#111 ink on light ground). Color only after form is perfect.
+- Precision grid: 78–80 column text width; 8–12px equivalent margins in print; consistent line height.
+- Birthmark rule: B$S appears small, inevitable, never loud.
+
+TYPOGRAPHY
+- Monospaced primary (ASCII purity). Avoid faux ligatures. No decorative fonts in body.
+- Cursed/ritual variants allowed only as micro accent lines, never body text.
+
+GRAPHICS
+- Sigils: 1–2px strokes at 1000px (scale proportionally). No gradients. No drop shadows by default.
+- Circles perfect; align to pixel grid. Center points when used must be optically balanced.
+
+PALETTE
+- Base: Ink #111, Paper #F7F7F5.
+- Accent (optional later): B$S Blue #0E3A8A, Gold #CDA434, Orange #F28C28.
+- Use accent sparingly: header rule or tiny dot only.
+
+LAYOUT
+- Headers/footers steady and quiet. Page numbers centered with em-dash wings.
+- Boxes use single-line ASCII rules (+ - |). Keep inner line length < outer by 4 chars.
+- Spacers: one empty line above/below content blocks.
+
+CONTENT
+- Four-line chapter pattern: Context, Principle, Modern, Test.
+- Copy must be checkable, clear, and compact. No sermon tone.
+
+USAGE
+- Everything should survive as tattoo/logo/print at 1:1 and 1:10 scale.
+- Never crowd sigils against borders. Minimum clear-space = height of the sigil's thickest stroke.
+
+APPROVAL
+- If any element feels like ornament, delete it. Function births form.
